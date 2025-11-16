@@ -1,3 +1,4 @@
+google.com, pub-7118009821249487, DIRECT, f08c47fec0942fa0
 # CAS.ai Updated Oct 21, 2025
 OwnerDomain=cas.ai
 cas.ai, 922e6092, DIRECT
@@ -3827,3 +3828,4 @@ smaato.com, 1100058992, RESELLER, 07bcf65f187117b4
 smaato.com, 1100059341, RESELLER, 07bcf65f187117b4
 smaato.com, 1100059477, RESELLER, 07bcf65f187117b4
 video.unrulymedia.com, 251620492, RESELLER
+
